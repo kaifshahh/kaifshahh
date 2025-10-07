@@ -6,10 +6,10 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React Native, Backend Development<br><br>
+🌱 I’m currently learning React Native, Backend Development<br><br>
   👨‍💻 All of my projects are available at  https://github.com/kaifshahh/<br><br>
   💬 Ask me about React, Javascript<br><br>
-  📫 How to reach me kaifshah.sknsits.it@gmail.com </p>
+  📫 How to reach me kaifshah.sknsits.it@gmail.com 
 
 ###
 
