@@ -2,14 +2,14 @@
 
 ###
 
-<h3 align="left">A passionate frontend developer from India</h3>
+<h3 align="left">A passionate MERNstack developer from India</h3>
 
 ###
 
-🌱 I’m currently learning React Native, Backend Development<br><br>
+🌱 I’m currently learning React Native<br><br>
   👨‍💻 All of my projects are available at  https://portfolio-kaif-shahs-projects.vercel.app/<br><br>
   💬 Ask me about React, Javascript<br><br>
-  📫 How to reach me kaifshah.sknsits.it@gmail.com 
+  📫 How to reach me kaifshah989@gmail.com 
 
 ###
 
